@@ -1,0 +1,5 @@
+Q1: 2e9ce49a  
+Q2: 3
+Q3: git pull
+Q4: It is not protected since it has already been committed and can be recovered.
+Q5: git branch -d old-fix, git push origin --delete old-fix
